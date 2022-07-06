@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com Administração
 - 🌱 Estudando atualmente: JavaScript
 - 😄 Pronomes: Ela/Dela
+- 🎵 <a href="https://open.spotify.com/playlist/1OXX6vSQ5dMGygtmWWksdO?si=c61f074edfec4923" target="_blank">Se o Vecna me pegar de play nisso</a>
 
 <div align="center">
   <a href="https://github.com/SaraAnita1">
@@ -13,6 +14,7 @@
   <img align="center" alt="Sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sara-PHP" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="right" alt="Sara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/925377188402987058/993720548804804670/download20220702002955.png?width=467&height=467">
 </div>
  
