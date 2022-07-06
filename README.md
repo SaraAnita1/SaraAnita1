@@ -5,7 +5,7 @@
 - 😄 Pronomes: Ela/Dela
 - 🎵 <a href="https://open.spotify.com/playlist/1OXX6vSQ5dMGygtmWWksdO?si=c61f074edfec4923" target="_blank">Se o Vecna me pegar de play nisso</a>
 
-
+<div>
   <a href="https://github.com/SaraAnita1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraAnita1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraAnita1&layout=compact&langs_count=7&theme=dracula"/>
