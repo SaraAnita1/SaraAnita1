@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Administração
 - 🌱 Estudando atualmente: JavaScript
 - 😄 Pronomes: Ela/Dela
-- 🎵 <a href="https://open.spotify.com/playlist/1OXX6vSQ5dMGygtmWWksdO?si=c61f074edfec4923" target="_blank">Se o Vecna me pegar de play nisso</a>
+- 🎵 <a href='https://open.spotify.com/playlist/1OXX6vSQ5dMGygtmWWksdO?si=c61f074edfec4923&nd=1' target="_blank">Se o Vecna me pegar de play nisso</a>
 
 <div>
   <a href="https://github.com/SaraAnita1">
