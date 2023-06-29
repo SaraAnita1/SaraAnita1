@@ -16,7 +16,7 @@
   <img align="center" alt="Sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sara-PHP" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Sara-Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="Sara-pic" height="150" style="border-radius:50px; "https://cdn.discordapp.com/attachments/925377188402987058/1123810500841574411/download20230604000132.png">
+  <img align="right" alt="Sara-pic" height="150" style="border-radius: 50px;" img src="https://cdn.discordapp.com/attachments/925377188402987058/1123810500841574411/download20230604000132.png" />
 </div>
  
   ##
