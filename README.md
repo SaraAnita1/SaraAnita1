@@ -1,7 +1,9 @@
 ### Olá, eu sou a Sara Anita 🦄
 
-- 🔭 Hoje trabalho com Administração
-- 🌱 Estudando atualmente: JavaScript
+
+- 💻 Desenvolvedora Web Junior
+- Eterna Estudante da Laboratoria
+- 🌱 Estudando atualmente: Node.js
 - 😄 Pronomes: Ela/Dela
 - 🎵 Se o Vecna me pegar de play nisso:<a href='https://open.spotify.com/playlist/1OXX6vSQ5dMGygtmWWksdO?si=c61f074edfec4923&nd=1' target="_blank"> <img src='https://em-content.zobj.net/thumbs/160/microsoft/319/ghost_1f47b.png' width='16px'/> </a>
 
